@@ -1,0 +1,2 @@
+# Data-Crawling-and-Visual-Analysis-System-for-Domestic-Tourist-Attractions
+【万字文档+源码】基于springboot+vue国内旅游景点数据爬虫与可视化分析项目-可用于毕设-课程设计-练手学习-学习资料分享-基于大数据技术的旅游景点智能分析系统项目。项目通过Scrapy爬虫框架采集去哪儿网景点数据，包括景点信息、评分、评论等内容，并使用Python进行数据清洗和预处理。系统采用Hadoop生态构建，将数据存储在HDFS分布式文件系统中，利用Hive进行数据仓库管理和SQL查询分析。在数据分析层面，使用Jupyter Notebook结合Matplotlib/Seaborn进行可视化挖掘。最终开发了基于Vue和Echarts的可视化大屏，为游客、景区运营方和旅游管理部门提供数据支持。
